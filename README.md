@@ -52,7 +52,7 @@ NetworkTool displays your **download/upload speeds**, **ping**, and **packet los
 
 ## ❤️ Credits
 
-Developed with 💙 by **charlotte-zee**  
+Developed by **Charlotte Zee**  
 Follow for more C# and UI-based tools!
 
 ---
