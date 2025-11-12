@@ -3,6 +3,11 @@
 A modern, real-time **network monitoring tool** built in **C# and WPF**.  
 NetworkTool displays your **download/upload speeds**, **ping**, and **packet loss** with a sleek, neon-inspired UI — all in a compact and efficient package.
 
+## 🖼️ Screenshots
+
+| Normal Mode | Float Mode |
+|--------------|-------------|
+| ![Normal](https://github.com/user-attachments/assets/457038fe-adca-4b67-8843-03d9dbed06d8) | ![Focus](https://github.com/user-attachments/assets/cf2ddf11-e840-4eea-8301-2b86ceb9f96c) |
 
 ---
 
@@ -37,16 +42,6 @@ NetworkTool displays your **download/upload speeds**, **ping**, and **packet los
 1. Download the latest version from the [**Releases**](https://github.com/charlotte-zee/NetworkTool/releases) page.
 2. Extract (if needed) and run `NetworkTool.exe`.
 3. That’s it — no installation required!
-
----
-
-
-## 🖼️ Screenshots
-
-| Normal Mode | Float Mode |
-|--------------|-------------|
-| ![Normal](https://github.com/user-attachments/assets/457038fe-adca-4b67-8843-03d9dbed06d8) | ![Focus](https://github.com/user-attachments/assets/cf2ddf11-e840-4eea-8301-2b86ceb9f96c) |
-
 
 ---
 
