@@ -17,10 +17,18 @@ NetworkTool displays your **download/upload speeds**, **ping**, and **packet los
 
 ---
 
-## 🧩 Requirements
+🧩 Requirements
 
-- Windows 10 or 11 (x64)  
-- ✅ *No .NET Runtime required* — fully self-contained build
+🪟 Windows 10 or 11 (64-bit)
+
+🟩 Self-Contained Build
+
+🚀 No .NET Runtime required — runs standalone, fully portable
+
+🟦 Framework-Dependent Build
+
+
+⚙️ Requires .NET 8 Desktop Runtime — [Download here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime)
 
 ---
 
